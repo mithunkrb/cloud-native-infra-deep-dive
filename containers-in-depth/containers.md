@@ -15,3 +15,12 @@
 
 ## Networking
 * https://labs.iximiuz.com/tutorials/container-networking-from-scratch
+
+
+## Docker support removal from K8s why? Is that 100% true?
+* https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
+### CRI
+https://kubernetes.io/blog/2016/12/container-runtime-interface-cri-in-kubernetes/
+
+### OCI
+https://opencontainers.org/posts/blog/2018-06-20-cri-o-how-standards-power-a-container-runtime/
