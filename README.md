@@ -4,7 +4,7 @@ Welcome to the **Cloud Native Infrastructure Deep Dive** repository! This is a c
 
 ## Topics Covered
 
-- **Containers**: Learn the ins and outs of container technologies like Docker and Podman.
+- **Containers**: Learn the ins and outs of container technologies like Docker, containerd etc.
 - **Kubernetes**: Deep dive into Kubernetes architecture, operations, and best practices.
 - **eBPF**: Explore eBPF and its applications for observability, security, and networking.
 - **CNI (Calico/Cilium)**: Master container networking with leading CNIs like Calico and Cilium.
