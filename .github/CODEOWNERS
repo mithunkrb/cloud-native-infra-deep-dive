@@ -1,0 +1,6 @@
+# CODEOWNERS file
+# The following people will be automatically requested for review for every pull request
+# in this repository as per the GitHub code owners functionality.
+
+# Code owners for all files
+*       @mithunkrb @theSupermacy @Ghost-B0t @gagangaga
