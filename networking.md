@@ -6,4 +6,9 @@
 
 
 # TCP
-* 
+* https://dev.to/tamerlang/tcp-in-depth-3g83
+* https://www.firewall.cx/networking/network-protocols/tcp-udp-protocol/tcp-header-intro.html
+* https://courses.grainger.illinois.edu/cs438/sp2015/lectures/tcp.pdf
+* https://cse.iitkgp.ac.in/~agupta/networks/TCP.pdf
+* https://www.imperva.com/learn/ddos/tcp-transmission-control-protocol/
+*  
